@@ -4,12 +4,17 @@ import base64
 USER_ACCOUNT='15261806816'
 DOMAIN_SELECTION='CMCC'
 USER_PASSWATD='475869'
-#另一个账号密码的尝试
+#另两个个账号密码的尝试
 '''
 USER_ACCOUNT='15751835885'
 DOMAIN_SELECTION='CMCC'
 USER_PASSWATD='123321
+USER_ACCOUNT='18795906663'
+DOMAIN_SELECTION='CMCC'
+USER_PASSWATD='123321'
+
 '''
+#登录地址
 post_addr="http://a.nuist.edu.cn/index.php/index/login"
 
 #构造头部信息
